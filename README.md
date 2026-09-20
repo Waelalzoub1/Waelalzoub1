@@ -1,20 +1,13 @@
-# Hi, I'm Wael Alzoubi 👋
+# Wael Alzoubi
 
-Full-stack software engineer and **M.S. in Artificial Intelligence** student (University of Colorado Boulder). I like building hard things from scratch — from transformer language models in PyTorch to a small operating system (with its own C compiler) — and shipping full-stack web apps in between.
+Systems and AI/ML engineer. M.S. in Artificial Intelligence, University of Colorado Boulder.
 
-- 🔭 Shipping production software for paying freelance clients while completing my M.S.
-- 🧠 Interested in applied machine learning, LLMs & AI agents, and systems programming
-- 🛠️ **Stack:** Python · PyTorch · JavaScript/TypeScript · React / Next.js · Node · C / C++ · SQL · Linux
-- 📫 **Reach me:** waelalzoubi111@gmail.com · [LinkedIn](https://www.linkedin.com/in/wael-alzoubi)
+I build the stack from the bottom up, transistors to transformers: a CPU designed gate by gate, an operating system whose C compiler compiles itself, and neural networks written from scratch and trained on my own hardware.
 
----
+**[mini-os32](https://github.com/Waelalzoub1/mini-os32)** — A 32-bit x86 operating system in C: BIOS and UEFI boot, kernel with paging, syscalls, NVMe driver, filesystem, framebuffer console, shell, and an in-OS C compiler that is self-hosting (the compiler rebuilds itself inside the OS and the result is byte-identical to the gcc-built one).
 
-### 🚀 Featured projects
+**[custom-16bit-CPU](https://github.com/Waelalzoub1/custom-16bit-CPU)** — A 16-bit RISC CPU built from a single NAND gate in the Digital simulator (about 5,000 NAND gates), with an assembler, programs verified under Icarus Verilog, and a completed OpenLane/sky130 layout run.
 
-**[Character-Level Transformer LM](https://github.com/Waelalzoub1/Transformer-character-level)** — A decoder-only transformer built **from scratch in PyTorch** (causal self-attention, pre-norm LayerNorm, GELU, learned positional embeddings) that learns to generate Python source code.
+**[Transformer-character-level](https://github.com/Waelalzoub1/Transformer-character-level)** — A decoder-only transformer language model written from scratch in PyTorch (attention, blocks, and training loop by hand) and trained on the CPython standard library.
 
-**[mini-os32](https://github.com/Waelalzoub1/mini-os32)** — A tiny **32-bit operating system in C** — bootloader, kernel, filesystem, graphics, syscalls, and its *own* in-OS C compiler.
-
----
-
-<sub>Currently building toward roles in full-stack & ML engineering. Always happy to talk shop.</sub>
+Contact: waelalzoubi111@gmail.com · [LinkedIn](https://www.linkedin.com/in/wael-alzoubi)
