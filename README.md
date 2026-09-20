@@ -10,4 +10,6 @@ I build the stack from the bottom up, transistors to transformers: a CPU designe
 
 **[Transformer-character-level](https://github.com/Waelalzoub1/Transformer-character-level)** — A decoder-only transformer language model written from scratch in PyTorch (attention, blocks, and training loop by hand) and trained on the CPython standard library.
 
+**[chess-rl](https://github.com/Waelalzoub1/chess-rl)** — AlphaZero-style chess: PUCT Monte Carlo Tree Search guided by a policy/value network, parallel self-play, and honest measurements against a random baseline.
+
 Contact: waelalzoubi111@gmail.com · [LinkedIn](https://www.linkedin.com/in/wael-alzoubi)
