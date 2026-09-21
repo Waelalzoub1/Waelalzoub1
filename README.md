@@ -10,5 +10,7 @@ I build the stack from the bottom up, transistors to transformers: a CPU designe
 
 **[Transformer-character-level](https://github.com/Waelalzoub1/Transformer-character-level)** — A decoder-only transformer language model written from scratch in PyTorch (attention, blocks, and training loop by hand) and trained on the CPython standard library.
 
+**[chess-rl](https://github.com/Waelalzoub1/chess-rl)** — AlphaZero-style chess: batched GPU Monte Carlo Tree Search guided by a residual policy/value network, trained purely by self-play. Scores 0.98 against a random mover (381 wins, 19 draws, 0 losses in 400 games) and 0.70 against a greedy-capture baseline.
+
 
 Contact: waelalzoubi111@gmail.com · [LinkedIn](https://www.linkedin.com/in/wael-alzoubi)
